@@ -1,2 +1,2 @@
-# beecrowd-judge
-Soluções de alguns problemas no site Beecrowd
+# Beecrowd Judge
+Soluções de alguns problemas no site [Beecrowd](https://judge.beecrowd.com/pt)
