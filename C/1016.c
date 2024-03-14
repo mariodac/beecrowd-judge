@@ -1,3 +1,4 @@
+// 1016 	Distância
 #include <stdio.h>
 int main(){
     int D,T;

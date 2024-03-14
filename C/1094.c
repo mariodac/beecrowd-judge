@@ -1,3 +1,4 @@
+// 1094 	Experiências
 #include<stdio.h>
 int main(void){
     int i,n,x;

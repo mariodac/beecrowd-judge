@@ -1,3 +1,5 @@
+# 1008 	Salário
+
 cod = None
 horas = None
 salario = None

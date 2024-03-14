@@ -1,3 +1,4 @@
+// 1043 	Triângulo
 #include <stdio.h>
 int main()
 {

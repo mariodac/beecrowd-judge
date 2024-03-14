@@ -1,3 +1,4 @@
+// 1045 	Tipos de Triângulos
 #include <stdio.h>
 
 int main() {

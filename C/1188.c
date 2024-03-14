@@ -1,3 +1,4 @@
+// 1188 	Área Inferior
 #include <stdio.h>
 int main()
 {

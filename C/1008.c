@@ -1,3 +1,4 @@
+// 1008 	Salário
 #include <stdio.h>
 int main(){
     int NF,HT;

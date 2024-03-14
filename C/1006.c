@@ -1,3 +1,4 @@
+// 1006 	Média 2
 #include <stdio.h>
 int main(){
      float A,B,C,MEDIA;

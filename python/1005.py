@@ -1,3 +1,5 @@
+# 1005 	Média 1
+
 a = None
 b = None
 media = None

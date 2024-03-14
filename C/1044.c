@@ -1,3 +1,4 @@
+// 1044 	Múltiplos
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+// 1186 	Abaixo da Diagonal Secundária
 #include <stdio.h>
 int main()
 {

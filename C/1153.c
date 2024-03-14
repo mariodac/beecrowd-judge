@@ -1,3 +1,4 @@
+// 1153 	Fatorial Simples
 #include <stdio.h>
 
 int fat(int n) {

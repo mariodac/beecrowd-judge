@@ -1,3 +1,4 @@
+// 1117 	Validação de Nota
 #include <stdio.h>
 int main(){
 int x=0;

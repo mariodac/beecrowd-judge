@@ -1,3 +1,4 @@
+# 1007 	Diferença
 a = None
 b = None
 c = None

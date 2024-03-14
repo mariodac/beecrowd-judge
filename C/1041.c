@@ -1,3 +1,4 @@
+// 1041 	Coordenadas de um Ponto
 #include <stdio.h>
 int main()
 {

@@ -1,3 +1,4 @@
+// 1172 	Substituição em Vetor I
 #include <stdio.h>
 int main() {
 int n, i;

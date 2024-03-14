@@ -1,3 +1,4 @@
+// 1050 	DDD
 #include <stdio.h>
 
 int main() {

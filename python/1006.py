@@ -1,3 +1,5 @@
+# 1006 	Média 2
+
 media = None
 a = None
 c = None

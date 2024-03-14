@@ -1,3 +1,4 @@
+// 1079 	Médias Ponderadas
 #include<stdio.h>
 int main(void){
     float a , b ,c , total , media;

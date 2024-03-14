@@ -1,3 +1,4 @@
+// 1020 	Idade em Dias
 #include <stdio.h>
 int main(){
     int i,a,m,d;

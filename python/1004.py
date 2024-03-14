@@ -1,3 +1,5 @@
+# 1004 	Produto Simples
+
 prod = None
 b = None
 a = None

@@ -1,3 +1,4 @@
+// 1096 	Sequencia IJ 2
 #include<stdio.h>
 int main(void){
     int i,j;

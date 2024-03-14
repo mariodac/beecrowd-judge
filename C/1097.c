@@ -1,3 +1,4 @@
+// 1097 	Sequencia IJ 3
 #include<stdio.h>
 int main(){
     int i,j,x;

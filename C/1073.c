@@ -1,3 +1,4 @@
+// 1073 	Quadrado de Pares
 #include <stdio.h>
 int main(void)
 {

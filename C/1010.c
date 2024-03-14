@@ -1,3 +1,4 @@
+// 1010 	Cálculo Simples
 #include <stdio.h>
 int main(){
     int p1,p2,q1,q2;

@@ -1,3 +1,4 @@
+// 1017 	Gasto de Combustível
 #include <stdio.h>
 int main(){
     float Q,T,V;

@@ -1,3 +1,4 @@
+// 1014 	Consumo
 #include <stdio.h>
 
 int main(){

@@ -1,3 +1,4 @@
+// 1047 	Tempo de Jogo com Minutos
 #include <stdio.h>
 int main()
 {

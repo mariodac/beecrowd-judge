@@ -1,3 +1,4 @@
+// 1004 	Produto Simples
 #include <stdio.h>
 int main(){
     int A,B,PROD;

@@ -1,3 +1,4 @@
+// 1182 	Coluna na Matriz
 #include<stdio.h>
 int main()
 {

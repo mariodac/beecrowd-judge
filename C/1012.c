@@ -1,3 +1,4 @@
+// 1012 	Área
 #include <stdio.h>
 #include <math.h>
 
