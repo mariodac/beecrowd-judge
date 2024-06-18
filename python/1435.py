@@ -1,5 +1,5 @@
-# 1435 Matriz Quadrada I
 n = 1
+matrixs = []
 while n != 0:
     matrix = []
     n = int(input().strip())
@@ -16,9 +16,17 @@ while n != 0:
                 x = n - j + 1
             collums.append(x)
         matrix.append(collums)
-
-    for i in range(n):
-        for j in range(n):
-            print(f'  {matrix[i][j]} ', end='')
+    matrixs.append(matrix)
+for m in matrixs:
+    for i in range(len(m)):
+        for j in range(len(m)):
+            if j == 0:
+                print('%3hd'%m[i][j], end='')
+            else:
+                print(' %3hd'%m[i][j], end='')
+            # if j == len(m) - 1:
+            #     print('%3hd',m[i][j])
+            # else:
+            #     print('%3hd',m[i][j], end=' ')
         print('')
     print('')
